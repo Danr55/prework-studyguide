@@ -13,10 +13,6 @@ N/A
 
 Each section will contain notes for HTML, CSS, Git and Javascript. If we open the Devtools console we can see Javascript working in action.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
